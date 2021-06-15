@@ -16,10 +16,9 @@ I'm an Undergrad Student🎓 pursuing ECE. I'm an **AI Enthusiast**, passionate 
 - I enjoy working on
   - 📊 Machine Learning
   - 🖼 Data Analytics
-  - 🛠 Statistics
+  - 📈 Statistics
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on data science projects.
-- 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/pavithrakollipara/)
 - 🎉 Fun-Fact: I ❤️ Fashion blogging 👗
