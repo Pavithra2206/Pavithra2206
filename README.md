@@ -4,9 +4,11 @@
 I'm an Undergrad Student🎓 pursuing ECE. I'm an **AI Enthusiast**, passionate about data science and statistics.  <br/><br/>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Pavithra2206/)](https://github.com/Pavithra2206/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavithra-kollipara/)](https://www.linkedin.com/in/pavithra-kollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavithrakollipara@gmail.com)](mailto:pavithrakollipara@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pavithrakollipara@gmail.com)](mailto:pavithrakollipara@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/Pavithra2206/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-kollipara)
+[![Insta Badge](https://img.shields.io/badge/pavithra__kollipara-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pavithra_kollipara/)
 
 
 ## ⚡️ A Few Quick Facts
