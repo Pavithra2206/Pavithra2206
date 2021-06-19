@@ -9,6 +9,7 @@ I'm an Undergrad Student🎓 pursuing ECE. I'm an **AI Enthusiast**, passionate 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/Pavithra2206/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-kollipara)
 [![Insta Badge](https://img.shields.io/badge/pavithra__kollipara-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pavithra_kollipara/)
+[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Pavithra-Kollipara)
 
 
 ## ⚡️ A Few Quick Facts
