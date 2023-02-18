@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Pavithra 
 
 ### A little about me...  
-I'm an Undergrad Student🎓 pursuing ECE. I'm an **AI Enthusiast**, passionate about data science and statistics.  <br/><br/>
+I'm an Graduate student majoring in Data Science at USC. I'm an **AI Enthusiast**, passionate about data science and statistics.  <br/><br/>
 
 #### 📬 Find me at
 
