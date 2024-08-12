@@ -24,4 +24,3 @@ I'm a graduate student majoring in Data Science at USC. I'm an **AI Enthusiast**
 - 👯 I’m looking to collaborate on data science projects.
 - 💬 Ask me about Python, ML
 - 📙 Check out my [Resume](https://www.linkedin.com/in/pavithrakollipara/)
-- 🎉 Fun-Fact: I ❤️ Fashion blogging 👗
